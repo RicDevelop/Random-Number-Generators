@@ -1,2 +1,3 @@
 **RANDOM GEN NUMBER**
-''This Number Generator is a Random Number Generator (from numb. 1 to numb. 100)''
+*This Number Generator is a Random Number Generator (from numb. 1 to numb. 100)*
+**Creation of @RicDeveloper**
