@@ -1,3 +1,3 @@
 **RANDOM GEN NUMBER**
-*This Number Generator is a Random Number Generator (from numb. 1 to numb. 100)*
-**Creation of @RicDeveloper**
+*This Number Generators are a Random Number Generators (from numb. 1 to numb. 100)*
+**Creations of @RicDeveloper**
